@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.main.MainTest$RegisterUserTests" time="0.057" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.main.MainTest$RegisterUserTests" time="0.066" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin"/>
-    <property name="sun.java.command" value="C:\Users\Student\AppData\Local\Temp\surefire5179444438876507720\surefirebooter-20260918165909709_3.jar C:\Users\Student\AppData\Local\Temp\surefire5179444438876507720 2026-09-18T16-59-09_155-jvmRun1 surefire-20260918165909709_1tmp surefire_0-20260918165909709_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Student\AppData\Local\Temp\surefire8746305086666055736\surefirebooter-20260918223350511_3.jar C:\Users\Student\AppData\Local\Temp\surefire8746305086666055736 2026-09-18T22-33-50_340-jvmRun1 surefire-20260918223350511_1tmp surefire_0-20260918223350511_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="com.mycompany.main.MainTest"/>
     <property name="surefire.test.class.path" value="C:\Users\Student\Documents\GitHub\ST10516368Part1POE\target\test-classes;C:\Users\Student\Documents\GitHub\ST10516368Part1POE\target\classes;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\Student\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\Student\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;C:\Users\Student\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Student\AppData\Local\Temp\surefire5179444438876507720\surefirebooter-20260918165909709_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Student\AppData\Local\Temp\surefire8746305086666055736\surefirebooter-20260918223350511_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.1+8-LTS"/>
@@ -53,7 +53,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\180\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\Program Files\php-8.5.2-Win32-vs17-x64;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Student\AppData\Local\Microsoft\WindowsApps;C:\Users\Student\AppData\Roaming\npm;C:\Users\Student\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Student\.dotnet\tools;C:\Users\Student\AppData\Roaming\npm;C:\Program Files (x86)\MongoDB Atlas CLI\;."/>
+    <property name="java.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\180\Tools\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\Program Files\php-8.5.2-Win32-vs17-x64;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Student\AppData\Local\Microsoft\WindowsApps;C:\Users\Student\AppData\Roaming\npm;C:\Users\Student\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Student\.dotnet\tools;C:\Users\Student\AppData\Roaming\npm;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\Users\Student\AppData\Local\GitHubDesktop\bin;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
@@ -62,7 +62,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="registersSuccessfullyAfterInvalidAttempts" classname="com.mycompany.main.MainTest$RegisterUserTests" time="0.038">
+  <testcase name="registersSuccessfullyAfterInvalidAttempts" classname="com.mycompany.main.MainTest$RegisterUserTests" time="0.045">
     <system-out><![CDATA[Enter your first name: Enter your last name: Enter your username: Username is not correctly formatted; please ensure that your username contains an underscore and is no more than five characters in length.
 Enter your username: Enter your password: Password is not correctly formatted; please  ensure that the password contains a capital letter,  a number, and a special character.
 Enter your password: Enter your cellphone number (+27): Cell phone number incorrectly formatted or does not contain the international code.
