@@ -16,7 +16,7 @@ public class Main {
     static String firstName;
     static String lastName;
 
-    //Variables for the user's registration details
+    //Variables to store the user's registration details
     //Stores the registered username
     static String registeredUsername;
 
