@@ -23,6 +23,7 @@ public class Main {
     //Stores the registered password
     static String registeredPassword;
     
+    //Stores the registered cellphone number
     static String registeredCellPhone;
 
     //Creates the username checking method
